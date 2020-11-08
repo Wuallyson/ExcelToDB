@@ -6,4 +6,4 @@ A notícia acima pode parecer inacreditável a primeira vista, mas eu já trabal
 Apesar de parecer óbvio, precisamos levar em consideração que **migrar centenas ou talvez milhares de dados de uma planilha para um banco de dados está longe de ser uma tarefa fácil** e dependendo do volume de dados é inviável de fazer isso manualmente.
 
 Por isso, criei um programa em java que **faz a leitura de uma planilha no formato .xlsx** e possibilita a opção de **salvar direto no banco de dados e criar o script correspondente às operações realizadas e o script para desfazer essas operações** (que pode ser muito útil) ou apenas **gerar o script SQL para inserir e desfazer a operação de inserir**.
-
+ ![](https://github.com/fabioTowers/ExcelToDB/blob/main/ilustracao_ExcelToDB.jpg)
