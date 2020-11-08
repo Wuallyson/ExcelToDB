@@ -14,5 +14,6 @@ Esse projeto nasceu de uma necessidade pessoal minha: utilizo uma planilha do Go
 Para ficar mais claro o funcionamento do programa deixei uma cópia da planilha que inspirou esse projeto preenchida com dados fictícios para exemplificar e você pode dar uma olhada nela [nesse link](https://docs.google.com/spreadsheets/d/1kM-nf5Hjwc83KpomDjvyMolrkByd4O-8A1gPx5RV3P4/edit?usp=sharing). Cada uma das tabelas nessa planilha é armazenada em uma tabela de mesmo nome no banco de dados.
 
 Se gostou desse projeto não deixei de conhecer meus outros projetos me seguindo nas minhas redes sociais:
+
 [**Veja meu perfil no Medium**](https://medium.com/@fabiomendes_95615)
 [**Veja meu perfil no LinkedIn**](https://www.linkedin.com/in/fabio-mendes-35743b128)
