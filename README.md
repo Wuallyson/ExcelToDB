@@ -16,4 +16,5 @@ Para ficar mais claro o funcionamento do programa deixei uma cópia da planilha 
 Se gostou desse projeto não deixei de conhecer meus outros projetos me seguindo nas minhas redes sociais:
 
 [**Veja meu perfil no Medium**](https://medium.com/@fabiomendes_95615)
+
 [**Veja meu perfil no LinkedIn**](https://www.linkedin.com/in/fabio-mendes-35743b128)
