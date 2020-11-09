@@ -10,6 +10,10 @@ Por isso, criei um programa em java que **faz a leitura de uma planilha no forma
 
 Veja abaixo as janelas do programa:
 
+![](https://github.com/fabioTowers/ExcelToDB/blob/main/janela_escolher_arquivo.png)
+![](https://github.com/fabioTowers/ExcelToDB/blob/main/janela_visualizar_tabelas.png)
+![](https://github.com/fabioTowers/ExcelToDB/blob/main/janela_configurar_banco.png)
+
 Utilizei nesse projeto alguns **Design Patterns como Gateway, MVC e DAO**, tudo foi feito em um projeto **Maven** no **Eclipse** e o *framework* utilizado para ler a planilha foi o **Apache POI**, a interface gráfica foi feita com **Java Swing**.
 
 Esse projeto nasceu de uma necessidade pessoal minha: utilizo uma planilha do Google para controlar as finanças e conforme fui evoluindo na faculdade e aprendi a usar Bancos de Dados resolvi que seria legal manter um histórico das informações mensais no banco, o resultado você vê nesse projeto.
