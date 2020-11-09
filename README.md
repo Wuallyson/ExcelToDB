@@ -8,7 +8,7 @@ Apesar de parecer óbvio, precisamos levar em consideração que **migrar centen
 Por isso, criei um programa em java que **faz a leitura de uma planilha no formato .xlsx** e possibilita a opção de **salvar direto no banco de dados e criar o script correspondente às operações realizadas e o script para desfazer essas operações** (que pode ser muito útil) ou apenas **gerar o script SQL para inserir e desfazer a operação de inserir**.
  ![](https://github.com/fabioTowers/ExcelToDB/blob/main/ilustracao_ExcelToDB.jpg)
 
-Utilizei nesse projeto alguns **Design Patterns como Gateway, MVC e DAO**, tudo foi feito em um projeto **Maven** no **Eclipse** e o *framework* utilizado para ler a planilha foi o **Apache POI**.
+Utilizei nesse projeto alguns **Design Patterns como Gateway, MVC e DAO**, tudo foi feito em um projeto **Maven** no **Eclipse** e o *framework* utilizado para ler a planilha foi o **Apache POI**, a interface gráfica foi feita com **Java Swing**.
 
 Esse projeto nasceu de uma necessidade pessoal minha: utilizo uma planilha do Google para controlar as finanças e conforme fui evoluindo na faculdade e aprendi a usar Bancos de Dados resolvi que seria legal manter um histórico das informações mensais no banco, o resultado você vê nesse projeto.
 Para ficar mais claro o funcionamento do programa deixei uma cópia da planilha que inspirou esse projeto preenchida com dados fictícios para exemplificar e você pode dar uma olhada nela [nesse link](https://docs.google.com/spreadsheets/d/1kM-nf5Hjwc83KpomDjvyMolrkByd4O-8A1gPx5RV3P4/edit?usp=sharing). Cada uma das tabelas nessa planilha é armazenada em uma tabela de mesmo nome no banco de dados.
