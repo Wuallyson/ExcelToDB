@@ -19,9 +19,9 @@ Utilizei nesse projeto alguns **Design Patterns como Gateway, MVC e DAO**, tudo 
 Esse projeto nasceu de uma necessidade pessoal minha: utilizo uma planilha do Google para controlar as finanças e conforme fui evoluindo na faculdade e aprendi a usar Bancos de Dados resolvi que seria legal manter um histórico das informações mensais no banco, o resultado você vê nesse projeto.
 Para ficar mais claro o funcionamento do programa deixei uma cópia da planilha que inspirou esse projeto preenchida com dados fictícios para exemplificar e você pode dar uma olhada nela [nesse link](https://docs.google.com/spreadsheets/d/1kM-nf5Hjwc83KpomDjvyMolrkByd4O-8A1gPx5RV3P4/edit?usp=sharing). Cada uma das tabelas nessa planilha é armazenada em uma tabela de mesmo nome no banco de dados.
 
-[Caso não tenha ficado muito claro como funciona na prática por esse link você pode ver um video demonstrativo.](https://drive.google.com/file/d/1vTl1WZqnOr04wwQIuOruDHzCb9PjfsIe/view?usp=sharing)
+[Caso não tenha ficado muito claro como funciona na prática você pode ver um video demonstrativo aqui.](https://drive.google.com/file/d/1vTl1WZqnOr04wwQIuOruDHzCb9PjfsIe/view?usp=sharing)
 
-Se gostou desse projeto não deixe de conhecer meus outros projetos me seguindo nas minhas redes sociais:
+Se gostou desse projeto não deixe de conhecer outros projetos me seguindo nas redes sociais:
 
 [**Veja meu perfil no Medium**](https://medium.com/@fabiomendes_95615)
 
